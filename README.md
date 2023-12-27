@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there, my name is Wenhao 👋
+I'm a computer science student who is interested in data analytics and software development. Welcome to my GitHub profile.
+In addition to my knowledge of computer science, I have professional experience in e-commerce and supply chain management, and I was formally educated in economics and statistics via my first undergraduate degree.
 
+## About Me
+- 💼 I am studying Computer Science at Oregon State University.
+- 🌱 I’m currently learning Go and Ruby on Rails.
+- 💬 Ask me about supply chain management.
+
+## Skills
+- Programming languages: Python, Go, Ruby, R, JavaScript, SQL
+- Technologies & Tools: React, Rails, Pandas, Jupyter Notebook, MySQL
 <!--
 **regular-polygon/regular-polygon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
