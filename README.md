@@ -1,10 +1,9 @@
 ### Hi there, my name is Wenhao 👋
-I'm a computer science student who is interested in data analytics and software development. Welcome to my GitHub profile.
-In addition to my knowledge of computer science, I have professional experience in e-commerce and supply chain management, and I was formally educated in economics and statistics via my first undergraduate degree.
+Welcome to my GitHub profile. I'm interested in data analytics and software development. 
+In addition to my computer science degree, I have professional experience in e-commerce and supply chain management, and I was formally educated in economics and statistics via my first undergraduate degree.
 
 ## About Me
-- 💼 I am studying Computer Science at Oregon State University.
-- 🌱 I’m currently learning Go and Ruby on Rails.
+- 🌱 I’m currently learning Go.
 - 💬 Ask me about supply chain management.
 
 ## Skills
